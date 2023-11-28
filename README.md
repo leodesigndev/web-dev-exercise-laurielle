@@ -13,7 +13,7 @@ Web Developer exercise created using react
 <!-- ABOUT THE PROJECT -->
 ## Screenshot
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/leodesigndev/web-dev-exercise-laurielle/blob/main/screenshot/screen1.JPG)
 
 # Getting Started with Create React App
 
